@@ -1,6 +1,5 @@
 function Home(){
-    return <h1>It doesn't matter if you start with baby steps.
-        Be persistent and soon you'll start running.
+    return <h1>Andressa, eu não tenho palavras para espressar o quanto vc é importante pra mim. Muito obrigado!!
     </h1>
 }
 
